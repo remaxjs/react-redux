@@ -1,6 +1,8 @@
 React Redux
 =========================
 
+# 已废弃，请直接使用 react-redux
+
 Official React bindings for [Redux](https://github.com/reduxjs/redux).  
 Performant and flexible.
 
